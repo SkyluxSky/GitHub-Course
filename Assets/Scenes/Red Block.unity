@@ -302,7 +302,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 396910114}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD:Assets/Scenes/Red Block.unity
   m_LocalPosition: {x: -0.11, y: -0.23333097, z: -0.25605702}
+=======
+  m_LocalPosition: {x: -2.3181076, y: -0.23333097, z: -0.25605702}
+>>>>>>> parent of 7dc2e81... Move Ground Plane:Assets/Scenes/SampleScene.unity
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
